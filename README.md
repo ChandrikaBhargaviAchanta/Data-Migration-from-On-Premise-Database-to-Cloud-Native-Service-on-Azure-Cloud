@@ -1,9 +1,9 @@
 # Data-Migration-from-On-Premise-Database-to-Cloud-Native-Service-on-Azure-Cloud
-**Objective**  
+### Objective  
 The primary goal of this project is to demonstrate a reliable and scalable method for migrating critical business data to the cloud. The focus is on leveraging Azure Data Factory as an ETL (Extract, Transform, Load) tool to facilitate seamless data migration while addressing key concerns such as encryption, architecture, and the migration of database objects.  
 
 
-**Key Features**  
+### Key Features
 _Data Migration Strategy:_  
 Implemented a comprehensive migration strategy, including proof of concept, to ensure the successful transfer of data with minimal impact on business operations.  
 
@@ -20,13 +20,13 @@ _Architecture Implementation:_
 Designed both basic and advanced pipeline architectures to optimize the migration process, featuring master, parallel, and base pipelines to handle large-scale data transfers.  
 
 
-**Technology Stack**  
+### Technology Stack 
 **_Cloud Platform:_** Microsoft Azure (SQL Managed Instance, Azure Data Factory)  
 **_Database Systems:_** Oracle, SQL Server  
 **_Programming & Scripting:_** SQL, PowerShell  
 **_Tools_:** SQL Server Managed Assistance (SSMA), Azure Portal  
 
 
-**Conclusion**  
+### Conclusion  
 This project underscores the importance of a well-planned and executed data migration strategy in the era of cloud computing. By utilizing Azure Data Factory, the migration process becomes not only efficient but also secure, allowing businesses to harness the power of the cloud with confidence. The lessons learned from this project are applicable to any organization looking to modernize its data infrastructure while ensuring business continuity.
 
