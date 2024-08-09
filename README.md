@@ -20,8 +20,8 @@ _Architecture Implementation:_
 Designed both basic and advanced pipeline architectures to optimize the migration process, featuring master, parallel, and base pipelines to handle large-scale data transfers.  
 
 **Technology Stack**
-**_Cloud Platform:_** Microsoft Azure (SQL Managed Instance, Azure Data Factory)
-**_Database Systems:_** Oracle, SQL Server
-**_Programming & Scripting:_** SQL, PowerShell
+**_Cloud Platform:_** Microsoft Azure (SQL Managed Instance, Azure Data Factory)  
+**_Database Systems:_** Oracle, SQL Server  
+**_Programming & Scripting:_** SQL, PowerShell  
 **_Tools_:** SQL Server Managed Assistance (SSMA), Azure Portal
 
