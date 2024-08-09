@@ -27,6 +27,6 @@ Designed both basic and advanced pipeline architectures to optimize the migratio
 **_Tools_:** SQL Server Managed Assistance (SSMA), Azure Portal  
 
 
-**Conclusion**
+**Conclusion**  
 This project underscores the importance of a well-planned and executed data migration strategy in the era of cloud computing. By utilizing Azure Data Factory, the migration process becomes not only efficient but also secure, allowing businesses to harness the power of the cloud with confidence. The lessons learned from this project are applicable to any organization looking to modernize its data infrastructure while ensuring business continuity.
 
